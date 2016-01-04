@@ -1,6 +1,6 @@
 # eis
 
-an easy install script for lnmp(linux + nginx + mysql + php).
+an `e`asy `i`nstall `s`cript for lnmp(linux + nginx + mysql + php).
 
 the goal of this script is to install those env in a commonly used linux env for example ubuntu and centos, and for the latest one or two year released ones(which will simpilfy the compatible of the script).
 
